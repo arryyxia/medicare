@@ -4075,7 +4075,7 @@ readers do not read off random characters that represent icons */
 .fa-coins::before {
   content: "\f51e"; }
 
-.fa-khanda::before {
+.fa-khAnda::before {
   content: "\f66d"; }
 
 .fa-sliders::before {
@@ -5914,7 +5914,7 @@ readers do not read off random characters that represent icons */
 .fa-brain::before {
   content: "\f5dc"; }
 
-.fa-bandage::before {
+.fa-bAndage::before {
   content: "\f462"; }
 
 .fa-band-aid::before {

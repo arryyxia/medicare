@@ -1432,8 +1432,8 @@ url("./fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6") format("wof
 .bi-webcam-fill::before { content: "\f67c"; }
 .bi-webcam::before { content: "\f67d"; }
 .bi-yin-yang::before { content: "\f67e"; }
-.bi-bandaid-fill::before { content: "\f680"; }
-.bi-bandaid::before { content: "\f681"; }
+.bi-bAndaid-fill::before { content: "\f680"; }
+.bi-bAndaid::before { content: "\f681"; }
 .bi-bluetooth::before { content: "\f682"; }
 .bi-body-text::before { content: "\f683"; }
 .bi-boombox::before { content: "\f684"; }
